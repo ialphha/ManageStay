@@ -1,0 +1,28 @@
+/* changes the mouse pointer while hovering the tag */
+.pointer{
+    cursor: pointer;
+}
+
+/* for the link to change color while hovering over the link tag */
+.link:hover { 
+    color: #474e47 !important;
+ } 
+
+ .ant-modal-footer{
+    display: none;
+ }
+ .ant-select-selector{
+    height:50px !important;
+ }
+ .mapBox{
+    height: 50px;
+    border-width: 0.2px !important;
+ }
+
+ .ant-select-selection-placeholder,
+ .ant-select-selection-item{
+    margin-top:5px;
+ }
+ .btn-square{
+    border-radius: 0;
+ }
