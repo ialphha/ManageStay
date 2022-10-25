@@ -1,5 +1,5 @@
 # ManageStay
-ManageStay is a simple web application that helps users to post and buy their vacant hotel rooms in safe and easy manner from one user to another user in the United States. It is a full-stack web application where the frontend program interacts with the user and then passes the actions performed by the user to the backend program that can store that information safely in data models and can access and manipulate that data as per the requirements. 
+ManageStay is a web application that helps users to post and buy their vacant hotel rooms in safe and easy manner from one user to another user in the United States. It is a full-stack web application where the frontend program interacts with the user and then passes the actions performed by the user to the backend program that can store that information safely in data models and can access and manipulate that data as per the requirements. 
 It is developed using an Model-View-Controller model and it is a platform that provides the opportunity for users to be both the buyer and seller of the hotel rooms. The application is simple to use, with initial registration in ManageStay and also the app is associated with stripe for payment processing.
 Key features:
 
